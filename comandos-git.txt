@@ -21,7 +21,4 @@ una rama con otra rama, generalmente la rama principal (master o main).
 
 vos no tenes que aparecer en la rama principaaaal (creo)
 
-fffffffffffff
-ggggggggggg
-
-7777777777777
+agregar esta rama a mi repositorio local. esta rama se llama "rama-nueva"
