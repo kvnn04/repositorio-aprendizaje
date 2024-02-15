@@ -1,0 +1,20 @@
+git add: agregar los cambios al (stating area) area de preparacion
+
+git status: ver si hay cambio o modificaciones para sumar al stating area
+
+git commit -a: git commit: Crea un nuevo commit con los cambios agregados al área de preparación.
+Debes proporcionar un mensaje de commit que describa los cambios realizados en este commit.
+
+git push: Envía los commits locales al repositorio remoto. Este comando es utilizado 
+principalmente para subir los cambios locales a un repositorio en un servidor remoto, como GitHub o GitLab.
+
+
+git pull: Recupera los cambios del repositorio remoto y los fusiona con la rama actual. Este comando es útil para
+actualizar tu copia local con los cambios realizados por otros colaboradores en el repositorio remoto.
+
+
+git checkout: Cambia entre diferentes ramas o versiones de archivos.
+También se utiliza para crear nuevas ramas o eliminar ramas existentes
+
+git merge: Fusiona una rama específica en la rama actual. Se utiliza para combinar los cambios realizados en
+una rama con otra rama, generalmente la rama principal (master o main).
