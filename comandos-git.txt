@@ -18,3 +18,7 @@ También se utiliza para crear nuevas ramas o eliminar ramas existentes
 
 git merge: Fusiona una rama específica en la rama actual. Se utiliza para combinar los cambios realizados en
 una rama con otra rama, generalmente la rama principal (master o main).
+
+vos no tenes que aparecer en la rama principaaaal (creo)
+
+agregar esta rama a mi repositorio local. esta rama se llama "rama-nueva"
